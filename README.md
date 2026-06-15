@@ -21,4 +21,4 @@ Il sito è configurato e ospitato pubblicamente tramite il servizio di cloud hos
 * `aston007.png`, `astonDB4.png`, `astonDB11.png`, `astonSede.png` — Immagini utilizzati all'interno delle pagine web.
 
 ---
-*Studente: Alessandro Di Santo* *Corso di Laurea Triennale in Ingegneria Elettronica e Informatica - Università degli Studi di Trieste*
+*Studente: Alessandro Di Santo* -- *Corso di Laurea Triennale in Ingegneria Elettronica e Informatica - Università degli Studi di Trieste*
